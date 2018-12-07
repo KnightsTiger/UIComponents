@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">UI Components</string>
+    <string name="this_is_a_text_view">This is a text View</string>
+    <string name="agree">Agree</string>
+    <string name="checkedtextview">CheckedTextView</string>
+    <string name="hint">hint</string>
+    <string name="button">Button</string>
+    <string name="play">play</string>
+    <string name="this_is_page_two">This is page two</string>
 </resources>
