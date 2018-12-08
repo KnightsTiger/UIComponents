@@ -7,4 +7,11 @@
     <string name="button">Button</string>
     <string name="play">play</string>
     <string name="this_is_page_two">This is page two</string>
+    <string name="item3">item3</string>
+    <string name="item2">item2</string>
+    <string name="item1">item1</string>
+    <string name="item">Item</string>
+    <string name="search">Search</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="hello">Hello!</string>
 </resources>
